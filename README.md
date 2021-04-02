@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @ebiggerr
 
-I am a final year student majoring in Computer Science (Software Development). Most of my program, scripts are written in Java. Getting a OCPJP is one of my dream.
+I am a final year student majoring in Computer Science (Software Development). Most of my program, scripts are written in Java. 
+
+- 👀 My Goals
+- OCPJP
 
 - 👀 I’m interested in ...
 
