@@ -3,7 +3,7 @@
 I am a final year student majoring in Computer Science (Software Development). Most of my program, scripts are written in Java. 
 
 - 👀 My Goals
-- OCPJP
+  - OCPJP
 
 - 👀 I’m interested in ...
 
