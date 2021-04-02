@@ -12,7 +12,7 @@ Spring framework, Java Concurreny and Parallelism, Data Science and things that 
 
 - 📫 How to reach me ...
 
-linkedin.com/in/alexious-yong
+(Linkedin)[linkedin.com/in/alexious-yong]
 
 <!---
 ebiggerr/ebiggerr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
