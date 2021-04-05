@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ebiggerr
 
-I am a final year student majoring in Computer Science (Software Development). Most of my program, scripts are written in Java. 
+I’m a final year student majoring in Computer Science (Software Development).
 
 - 👀 My Goals
-  - OCPJP
+  - OCPJP certification
 
 - 👀 I’m interested in ...
 
@@ -11,7 +11,7 @@ Backend development and Data Science.
 
 - 🌱 I’m currently learning ...
 
-Spring framework, Java Concurreny and Parallelism, Data Science and things that related to web development ( networking, server, protocol and etc )
+Spring framework, Data Science and things that related to backend development ( networking, server, protocol and etc )
 
 - 📫 How to reach me ...
 
