@@ -12,7 +12,6 @@ Spring framework, ASP.NET Core, Data Engineering and things that related to back
 - 📫 How to reach me ...
 
 [Linkedin](https://www.linkedin.com/in/alexious-yong)
-[Stack Overflow](https://stackoverflow.com/users/16341734/ebiggerr)
 
 <!---
 ebiggerr/ebiggerr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
