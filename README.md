@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @ebiggerr
 
-Final year student, major in Computer Science. Mainly code in Java and now is learning C#.
+Final year student, major in Computer Science. Mainly code in Java, C# and Go.
 
 - 🔖 I’m currently learning ...
 
