@@ -1,21 +1,13 @@
+> "Stop wasting time, automate it."
+
+
 - 👋 Hi, I’m @ebiggerr
 
 Final year student, major in Computer Science. Mainly code in Java and now is learning C#.
 
-- 🥇 My Goals
-  - Learn new languages like C++, Go and Rust.
-  - Write an open-source library.
-  - Make contribution to open-source.
-  - OCPJP certification.
-  - Become a solution architect.
-
-- 🥰 I’m interested in ...
-
-Backend development, kernel/driver/firmware programming and Data Science. 
-
 - 🔖 I’m currently learning ...
 
-Spring framework, ASP.NET Core, Data Science and things that related to backend development ( networking, server, protocol and etc )
+Spring framework, ASP.NET Core, Data Engineering and things that related to backend development ( networking, server, protocol, concurrency, threads and etc )
 
 - 📫 How to reach me ...
 
